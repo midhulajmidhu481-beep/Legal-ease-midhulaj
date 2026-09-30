@@ -1,0 +1,9 @@
+LegalEaseAI/
+├── backend/
+│   ├── __init__.py (empty file create pannu)
+│   ├── main.py
+│   └── routes.py
+├── frontend/
+│   ├── app.py
+├── requirements.txt
+└── .env
